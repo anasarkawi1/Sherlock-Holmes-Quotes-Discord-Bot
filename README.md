@@ -63,5 +63,5 @@ Run the bot script with
 
     node bot.js
     
-# Self Hosting
-Please do NOT self host without changing the name of the bot and giving credit 
+# License
+The project is licensed under `Mozilla Public License 2.0`. The license can be found in the `LICENSE` file.
